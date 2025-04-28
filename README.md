@@ -6,7 +6,7 @@
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
 
 For an audit, reach out via:
-- Twitter: https://twitter.com/0xjuaan
+- Twitter: https://twitter.com/ObsidianAudits
 - Telegram: https://t.me/juan_sec
 
 ## Competitive audit highlights
