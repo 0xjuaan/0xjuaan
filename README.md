@@ -2,6 +2,7 @@
 
 ## Summary
 - Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
+- Ranked #6 on the Sherlock [leaderboard](https://audits.sherlock.xyz/leaderboard)
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
 
 For an audit, reach out via:
