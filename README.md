@@ -2,7 +2,6 @@
 
 ## Summary
 - Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
-- Achieved 8 top-3 placements in competitive audits
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
 
 For an audit, reach out via:
@@ -13,8 +12,9 @@ For an audit, reach out via:
 
 | Contest    |Platform| Category                  | Ranking 🏆   | Findings 🔎|
 |------------|---------|------------------|-----------|----------|
+| [Yearn yBOLD](https://audits.sherlock.xyz/contests/977?filter=results)   | Sherlock  | Auto Compounding Vaults  | **#1**/355 🥇| [2H](https://audits.sherlock.xyz/contests/977/report)    |
 | [Arrakis x Valantis](https://audits.sherlock.xyz/contests/195)| Sherlock | Liquidity Management, RFQ AMM | **#1**/146 🥇| [6H (2 unique)](https://github.com/sherlock-audit/2024-03-arrakis-judging/issues?q=is%3Aissue+juaan+label%3AReward+)|
-|[Private contest](https://audits.sherlock.xyz/contests/845) | Sherlock | Token Vesting, Governance (on Solana) | **#1**/10 🥇 | 1M
+|[Wormhole](https://audits.sherlock.xyz/contests/845) | Sherlock | Token Vesting, Governance (on Solana) | **#1**/10 🥇 | [1M](https://github.com/wormhole-foundation/multigov/blob/main/audits/2025-03-sherlock-solana-multi-gov.pdf)
 |[Pump fun](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) | Cantina | Bonding curve and AMM on Solana | **#1**/435 🥇 | 1M
 | [Numa Money](https://audits.sherlock.xyz/contests/554?filter=results)| Sherlock | Compound V2 Fork, Synthetic RWAs | **#2**/255 🥈| [2H, 3 M (3 unique mediums)](https://audits.sherlock.xyz/contests/554?filter=results)|
 | [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend#top)| Code4rena | Lending, UniV3 integration |**#2**/105+ 🥈 | [2H, 3M (2 unique mediums)](https://github.com/0xjuaan/audits/blob/main/contests/2024-03-revert-lend.md) |
@@ -29,21 +29,12 @@ My submissions for all audit contests can be found [here](https://audits.sherloc
 
 ## Bug Bounties
 As a team with [@0xSpearmint](https://github.com/0xspearmint)
-| Project    |Category|Severity|
+| Project    |Severity|Writeup|
 |------------|---------|---------|
-|Fraxlend|Isolated Lending Pools|High|
+|Fraxlend|High|[Writeup](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU?referrerAddress=0x22ce3c4ce1EC532437209efA79d05CD294651ec3)|
 
 ## Private Audits
-
-| Project    |Provider|Category|
-|------------|---------|---------|
-|[LayerZero](https://layerzero.network/)  |Pashov Audit Group|Message rate limiting functionality| 
-|[Peapods Finance](https://peapods.finance/)  |Pashov Audit Group|Novel yield mechanisms, Lending| 
-|[IVX Finance](https://www.ivx.fi/)|Sherlock|Decentralized options AMM| 
-|[Parallel Protocol](https://x.com/ParallelMoney)  |Bail Security|Overcollateralised, multichain stablecoins| 
-|[DYAD](https://www.dyadstable.xyz/)       |Pashov Audit Group|Stablecoin, Staking and incentives| 
-|[TokenFabric](https://tokenfabric.xyz/)|Pashov Audit Group| ERC20 Token launch|
-|[Nitro Finance](https://nitrofinance.xyz/)  |Pashov Audit Group|Concentrated Liquidity DEX| 
+See portfolio at [Obsidian Audits](https://github.com/ObsidianAudits)
 
 ## Content
 ### Youtube
