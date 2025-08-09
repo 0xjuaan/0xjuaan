@@ -21,7 +21,7 @@ Contributing to [hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib
 
 ### Security Content
 
-**X Article (old)**
+**X Articles (old)**
 
 [How I find vulnerabilities in smart contracts
 ](https://x.com/0xjuaan/status/1806696969223745714)
