@@ -10,11 +10,11 @@ To get your contracts secured, reach out via:
 - Twitter: https://x.com/0xjuaan
 - Telegram: https://t.me/juan_sec
 
-## Audit portfolio
+## Audit Portfolio
 
 View my private audits, contests, and bounties here: [@obsidianaudits](https://github.com/ObsidianAudits/audits)
 
-## Open source work
+## Open Source Projects
 Contributing to [hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib), the all-in-one library to seamlessly build secure smart contracts on HyperEVM.
 
 ------
