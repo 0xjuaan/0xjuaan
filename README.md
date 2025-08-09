@@ -1,48 +1,34 @@
-# Juan's Portfolio
+# About me
 
 ## Summary
 - Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
 - Achieved 8+ top-2 placements in competitive audits
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
+- High-severity bug bounty for [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
 
-For an audit, reach out via:
-- Twitter: https://twitter.com/0xjuaan
+To get your contracts secured, reach out via:
+- Twitter: https://x.com/0xjuaan
 - Telegram: https://t.me/juan_sec
 
-## Competitive audit highlights
+## Audit portfolio
 
-| Contest    |Platform| Category                  | Ranking 🏆   | Findings 🔎|
-|------------|---------|------------------|-----------|----------|
-| [Arrakis x Valantis](https://audits.sherlock.xyz/contests/195)| Sherlock | Liquidity Management, RFQ AMM | **#1**/146 🥇| [6H (2 unique)](https://github.com/sherlock-audit/2024-03-arrakis-judging/issues?q=is%3Aissue+juaan+label%3AReward+)|
-|[Wormhole MultiGov](https://audits.sherlock.xyz/contests/845) | Sherlock | Token Vesting, Governance (on Solana) | **#1**/10 🥇 | 1M
-|[Pump fun](https://cantina.xyz/competitions/19c5a5a6-f68d-4da8-b185-3f28c7f97bc1/leaderboard) | Cantina | Bonding curve and AMM on Solana | **#1**/435 🥇 | 1M
-| [DeBank](https://audits.sherlock.xyz/contests/1044/leaderboard) | Sherlock | EVM DEX Aggregator | **#1**/131 🥇| [-](https://audits.sherlock.xyz/contests/1044)
-| [Numa Money](https://audits.sherlock.xyz/contests/554?filter=results)| Sherlock | Compound V2 Fork, Synthetic RWAs | **#2**/255 🥈| [2H, 3 M (3 unique mediums)](https://audits.sherlock.xyz/contests/554?filter=results)|
-| [Revert Lend](https://code4rena.com/audits/2024-03-revert-lend#top)| Code4rena | Lending, UniV3 integration |**#2**/105+ 🥈 | [2H, 3M (2 unique mediums)](https://github.com/0xjuaan/audits/blob/main/contests/2024-03-revert-lend.md) |
-| [Smilee Finance](https://audits.sherlock.xyz/contests/180)| Sherlock | Decentralized Options AMM | **#2**/173 🥈| [3M](https://github.com/0xjuaan/audits/blob/main/contests/2024-02-smilee-finance.md) |
-| [Zerolend One](https://audits.sherlock.xyz/contests/466/leaderboard) | Sherlock | Aave V3 Fork | **#2**/277🥈| [10 H, 7M](https://github.com/sherlock-audit/2024-06-new-scope-judging/issues?q=is%3Aissue+Obsidian+label%3AReward+)
-| [Sentiment V2](https://audits.sherlock.xyz/contests/349?filter=results) | Sherlock | Lending | **#3**/357 🥉 | [1H, 7M](https://github.com/sherlock-audit/2024-08-sentiment-v2-judging/issues?q=is%3Aissue+Obsidian+label%3Areward+sort%3Acreated-asc) | 
-| [Aave v3.3.0](https://audits.sherlock.xyz/contests/747) | Sherlock | Protocol upgrade + Bad debt accounting | **#3**/482 | [1L](https://github.com/sherlock-audit/2025-01-aave-v3-3-judging/issues/2)  | 
-| [Uniswap V4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659/leaderboard) | Cantina | Decentralised Exchange | **#6**/482 | 2M | 
+View my private audits, contests, and bounties here: [@obsidianaudits](https://github.com/ObsidianAudits/audits)
 
-My submissions for all audit contests can be found [here](https://audits.sherlock.xyz/watson/juaan)
+## Open source work
+Contributing to [hyper-evm-lib](https://github.com/hyperliquid-dev/hyper-evm-lib), the all-in-one library to seamlessly build secure smart contracts on HyperEVM.
 
-## Bug Bounties
-As a team with [@0xSpearmint](https://github.com/0xspearmint)
-| Project    |Category|Severity|
-|------------|---------|---------|
-|Fraxlend|Isolated Lending Pools|High|
+------
 
-## Private Audits
+### Security Content
 
-View all my private audits here: [Obsidian Audits](https://github.com/ObsidianAudits)
+**X Articles**
 
-## Content
-### Youtube
-[Finding breakdown (How To Find A Cross-Contract Reentrancy Exploit)](https://www.youtube.com/watch?v=UN_LGT_5uDE)
-### X Articles
 [How I find vulnerabilities in smart contracts
 ](https://x.com/0xjuaan/status/1806696969223745714)
 
 [How solidity devs can write safer code
 ](https://x.com/0xjuaan/status/1804411620992651701)
+
+**Youtube**
+
+[Finding breakdown (How To Find A Cross-Contract Reentrancy Exploit)](https://www.youtube.com/watch?v=UN_LGT_5uDE)
