@@ -2,7 +2,7 @@
 
 ## Summary
 - Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
-- Achieved 10+ top-2 placements in competitive audits
+- Achieved 8+ top-2 placements in competitive audits
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
 
 For an audit, reach out via:
