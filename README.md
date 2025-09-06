@@ -4,7 +4,7 @@
 - Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
 - Achieved 8+ top-2 placements in competitive audits
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
-- High-severity bug bounty for [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
+- High-severity bug bounty in [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
 
 To get your contracts secured, reach out via:
 - Twitter: https://x.com/0xjuaan
