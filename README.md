@@ -2,7 +2,7 @@
 
 ## Summary
 - Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
-- Achieved 8+ top-2 placements in competitive audits
+- Placed #1 in audit competitions for Wormhole, Pump.fun, Yearn Finance, DeBank, and more.
 - Senior Watson at [Sherlock](https://sherlock.xyz/)
 - High-severity bug bounty in [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
 
