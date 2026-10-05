@@ -1,8 +1,11 @@
 # About me
 
 ## Summary
-- Securing DeFi protocols at [Obsidian Audits](https://x.com/ObsidianAudits)
+- Engineer at [Kinetiq](https://kinetiq.xyz)
 - Building [purrtrace.com](https://purrtrace.com)
+
+### Previously
+- Built Obsidian Audits [obsidianaudits.com](https://obsidianaudits.com)
 - Placed #1 in audit competitions for Wormhole, Pump.fun, Yearn Finance, DeBank, and more.
 - High-severity bug bounty in [Fraxlend](https://mirror.xyz/0x22ce3c4ce1EC532437209efA79d05CD294651ec3/M6vD6XshTuZc53DFm0chQwYD15fxQ29G1mbxNi9ZLwU)
 
